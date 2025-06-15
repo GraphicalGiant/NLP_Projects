@@ -1,2 +1,3 @@
 # NLP_Projects
-All kind of NLP tasks are here with basic to advance
+1) Using VADER and ROBERTA model also used tranformers pipeline at last with HuggingFace Hub
+
